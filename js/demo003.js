@@ -266,7 +266,7 @@ sr.reveal('#textolibre2', {
 	});
 
 	sr.reveal('.imagen1', {
-		duration: 1000, //tiempo
+		duration: 2200, //tiempo
 		//delay:800,
 		origin: 'bottom', //origen
 		distance: '300px', //distancia
