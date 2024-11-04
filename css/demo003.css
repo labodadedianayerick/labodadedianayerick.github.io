@@ -80,7 +80,7 @@ font-family: "Arapey", serif;
   font-style: normal;
 margin-top: -10px;
 margin-bottom: 15px;
-  color:#ddded9;
+  color:#fff;
   font-size: 40px;
 float:left;
 }
@@ -691,8 +691,8 @@ font-family: 'Open Sans', sans-serif;
   border-left: 2px solid #E5CA5E;
   border-color: #fff;
   color:black;
-  background-color: #d9b1ac;
-  outline: 15px solid #d9b1ac;
+  background-color: #f6d1c9;
+  outline: 15px solid #f6d1c9;
 
 }
 .mesaregalos{
@@ -711,7 +711,7 @@ font-family: 'Open Sans', sans-serif;
 .lluvia{
   
   color:#D6D0B4;
-  background-color: #d9b1ac;
+  background-color: #f6d1c9;
   
 }
 .boletos{
@@ -1566,7 +1566,7 @@ audio::-webkit-media-controls-volume-slider {
 .inicialesFoto{
   color:#BFB291;
  
-  background-color:#d9b1ac;
+  background-color:#f6d1c9;
   text-align: center;
    display:flex;
   justify-content: center;
@@ -1594,7 +1594,7 @@ audio::-webkit-media-controls-volume-slider {
 
     margin:0px 10px;
   width:50px;    
-  border-top:1.5px solid #ddded9;
+  border-top:1.5px solid #fff;
   position: relative;
   top:20px;
   float:left;
