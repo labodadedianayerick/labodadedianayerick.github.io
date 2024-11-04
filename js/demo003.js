@@ -206,7 +206,7 @@ sr.reveal('#textolibre2', {
 	});
 	sr.reveal('.btnComoLlegar', {
 		duration: 2000, //tiempo
-		delay:800,
+		delay:600,
 		origin: 'bottom', //origen
 		distance: '200px', //distancia
 		
